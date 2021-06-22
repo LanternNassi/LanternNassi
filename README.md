@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanternNassi
 - 👀 I’m interested in programming and developing
-- 🌱 I’m currently learning artificial intelligence
+- 🌱 I’m currently learning artificial intelligence in python
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me 256-758989094
 
