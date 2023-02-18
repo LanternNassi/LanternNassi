@@ -6,9 +6,11 @@
 
 ## Projects Show Case
 
-Inventory Management Software            |  Hospital Management System
-:-------------------------:|:-------------------------:
-![bigstock-Business-Technology-Internet-172708247_600x](https://user-images.githubusercontent.com/71936382/219847773-c4b8d92f-232a-4d4d-88c6-2484465b2872.jpg) |  ![HIMS7-1_600x400](https://user-images.githubusercontent.com/71936382/219848242-49389654-c95e-46fc-b538-919136976f35.jpg)
+Inventory Management Software            |  Hospital Management System | Online assessment system
+:-------------------------:|:-------------------------:|:-------------------------:|
+![bigstock-Business-Technology-Internet-172708247_600x](https://user-images.githubusercontent.com/71936382/219847773-c4b8d92f-232a-4d4d-88c6-2484465b2872.jpg) |  ![HIMS7-1_600x400](https://user-images.githubusercontent.com/71936382/219848242-49389654-c95e-46fc-b538-919136976f35.jpg) | ![Capture_01_600x400](https://user-images.githubusercontent.com/71936382/219853746-aae18006-d400-42f7-ade9-6fdb0f1216c6.png)
+
+
 
 
 Multix app Social part            |  Mutix app business part |  Mutix Media
