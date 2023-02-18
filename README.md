@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LanternNassi
-- 👀 I’m interested in programming and developing apps that will help the community grow
-- 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me 256-758989094
+- 👀 I’m interested in programming and developing apps that will help the community grow with a business centered mentality
+- 💰I have so far aided many business enterprises in my country scale in the field of business tech through providing good quality custome software 
+- 💞️ I’m looking to collaborate on big projects as i have done for alot
+- 📫 How to reach me +256758989094
 
 ## Projects Show Case
 
