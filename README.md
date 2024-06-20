@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LanternNassi
+- 👋 Hi, I’m Ntambi
 - 👀 I’m interested in programming and developing apps that will help the community grow with a business centered mentality
 - 💰I have so far aided many business enterprises in my country scale in the field of business tech through providing good quality custome software 
 - 💞️ I’m looking to collaborate on big projects as i have done for alot
